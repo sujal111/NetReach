@@ -1,0 +1,24 @@
+[
+    {
+      "prefix": "216.103.180.0/22",
+      "country": "US",
+      "region": "US-AR",
+      "city": "Fort Smith",
+      "service": "AIA"
+    },
+    {
+      "prefix": "198.51.100.0/24",
+      "country": "US",
+      "region": "US-TX",
+      "city": "Dallas",
+      "service": "ABC"
+    },
+    {
+      "prefix": "203.0.113.0/24",
+      "country": "US",
+      "region": "US-CA",
+      "city": "San Francisco",
+      "service": "XYZ"
+    }
+  ]
+  
